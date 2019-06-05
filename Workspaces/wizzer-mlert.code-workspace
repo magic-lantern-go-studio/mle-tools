@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "/home/msm/Projects/MagicLanternGo/core-runtime/src"
+		}
+	],
+	"settings": {
+		"go.gopath": "/home/msm/Projects/MagicLanternGo/core-runtime",
+		"go.useLanguageServer": true,
+		"go.formatTool": "gofmt"
+	}
+}
